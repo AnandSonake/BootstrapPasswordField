@@ -6,3 +6,6 @@ You just need to add "data-bootstrappasswordfield-change" attribute to input fie
 
 By adding a "data-*" attribute you are bootstrapping you password field to have ability to display its content based on the status of the checkbox.
 
+
+[Demo](https://jsfiddle.net/z02t48rq/)
+
